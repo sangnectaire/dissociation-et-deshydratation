@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/dissociation-and-deshydratation/societe/factions/conseil-de-l-ordre/"}
+{"dg-publish":true,"permalink":"/Dissociation & Déshydratation/Société/Factions/Conseil de l'Ordre/"}
 ---
 
-Le **Conseil de l'Ordre** est en charge de maintenir la hiérarchies et les lois strictes d'[[Dissociation & Déshydratation/Géographie/Automates/Automates\|Automates]].
+Le **Conseil de l'Ordre** est en charge de maintenir la hiérarchies et les lois strictes d'[[Dissociation & Déshydratation/Géographie/Confins/Cités-Portail/Automates/Automates\|Automates]].
 
 C'est un triumvirat d’officiels représentant les trois piliers de la société. Chaque grande décision doit obtenir leur approbation, mais seulement après avoir franchi un long parcours administratif de formulaires et d’autorisations mineures jusqu’à obtenir le précieux sceau final. Le Conseil de l’Ordre est aujourd'hui composé de :
 
